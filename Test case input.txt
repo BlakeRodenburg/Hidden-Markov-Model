@@ -1,0 +1,118 @@
+original example 
+2 3
+1
+2
+3
+0.6 0.4
+0.5 0.5
+0.2 0.4 0.4
+0.5 0.4 0.1
+3 3 2 1 1 2 1 2 3
+
+2 3
+1
+2
+3
+0.6 0.4
+0.5 0.5
+0.2 0.4 0.4
+0.5 0.4 0.1
+3 1 3
+
+untrained
+
+2 3
+1
+2
+3
+0.5 0.5
+0.5 0.5
+0.33 0.33 0.33
+0.33 0.33 0.33
+3 1 3
+
+
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-410-principles-of-autonomy-and-decision-making-fall-2010/lecture-notes/MIT16_410F10_lec21.pdf
+
+2 3
+LA
+NY
+-
+0.5 0.5
+0.5 0.5
+0.4 0.1 0.5
+0.1 0.5 0.4
+1 0
+- LA LA - NY - NY NY NY - NY NY NY NY NY - - LA LA NY
+
+https://en.wikipedia.org/wiki/Baum%E2%80%93Welch_algorithm#Example
+
+2 2 
+E
+N
+0.5 0.5
+0.3 0.7
+0.3 0.7
+0.8 0.2
+0.2 0.8
+N N N N N E E N N N
+
+http://www.biostat.jhsph.edu/bstcourse/bio638/notes/HMMs_BaumWelch.pdf
+
+
+
+http://datascienceassn.org/sites/default/files/Example%20of%20the%20Baum-Welch%20Algorithm.pdf
+
+2 2
+A
+B
+0.3 0.7
+0.1 0.9
+0.4 0.6
+0.5 0.5
+0.85 0.15
+A B B A
+
+https://www.adeveloperdiary.com/data-science/machine-learning/derivation-and-implementation-of-baum-welch-algorithm-for-hidden-markov-model/
+
+2 3
+1
+2
+3
+0.54 0.46
+0.49 0.51
+0.16 0.26 0.58
+0.25 0.28 0.47
+0.5 0.5
+3 2 2 1 1 3 1 2 3 2 1 1
+
+http://www.adeveloperdiary.com/data-science/machine-learning/forward-and-backward-algorithm-in-hidden-markov-model/
+
+
+2 3
+0
+1
+2
+0.54 0.46
+0.49 0.51
+0.16 0.26 0.58
+0.25 0.28 0.47
+0.5 0.5
+0 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 2 2 2 2 1 1 1 0 2 1 2 0 2 0 1 2 1 2 0 2 0 2 2 0 2 2 2 0 0 1 0 1 2 2 2 2 0 2 2 2 1 2 0 1 0 0 2 1 2 1 1 1 0 2 0 0 1 1 2 0 1 2 0 1 0 2 1 0 0 2 0 1 0 2 1 2 1 1 2 1 2 2 2 1 2 1 2 1 1 1 2 2 1 2 2 1 2 2 2 2 2 2 2 0 0 0 1 1 1 2 1 0 1 0 1 0 1 2 0 2 2 1 0 0 1 1 2 2 0 2 0 0 0 2 2 2 2 2 1 2 2 2 2 2 1 2 1 2 1 2 0 2 2 2 2 2 2 2 2 0 2 1 2 1 1 1 2 2 2 2 2 2 2 0 2 2 2 2 2 1 2 1 2 1 2 0 2 0 1 2 0 1 0 1 1 2 2 2 2 2 2 2 2 2 1 0 0 1 2 1 0 2 2 1 2 2 2 1 0 1 2 2 2 1 0 1 0 2 2 1 2 2 2 1 2 2 2 2 0 2 0 1 1 2 0 0 2 2 2 1 1 0 0 1 2 1 2 1 0 2 0 2 2 0 0 0 1 0 1 1 1 2 2 0 1 2 2 2 0 1 1 2 2 0 1 2 2 2 2 2 2 0 1 2 2 0 2 0 2 2 2 1 2 2 2 1 1 1 1 2 0 0 0 2 2 1 1 2 1 0 2 1 1 1 0 1 2 1 2 1 2 2 2 0 2 0 0 2 2 2 2 2 2 1 0 1 1 1 2 1 2 2 2 2 2 1 1 2 2 2 2 2 2 0 1 2 0 1 2 1 2 0 2 1 0 2 2 0 2 2 0 2 2 2 2 0 2 2 2 1 2 0 2 1 2 2 2 1 2 2 2 0 0 2 1 2 2 2 2 2 2 2 1 2 2 2 0 2 2 1 2 2 2 2 1 2 0 2 1 2 2 0 1 0 1 2 1 0 2 2 2 1 0 1 0 2 1 2 2 2 0 2 1 2 2 0 1 2 0 0 1 0 1 1 1 2 1 0 1 2 1 2 2 0 0 0 2 1 1 2 2 1 2 
+(First iterationonly)
+
+https://en.wikipedia.org/wiki/Forward-backward_algorithm#Example
+
+2 2
+Y
+N
+0.7 0.3
+0.3 0.7
+0.9 0.1
+0.2 0.8
+0.5 0.5
+Y Y N Y Y
+
+
+
+
